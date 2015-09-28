@@ -1,0 +1,17 @@
+body {
+  padding: 3em 7em;
+  color: "#fff";
+  background:  url('evergreens.jpg') no-repeat center left;
+  font-family: 'Arimo', sans-serif; }
+h1 {
+  font-family: 'Roboto Slab', serif }
+ul {
+  list-style: square }
+div.content {
+  padding: 1em;
+  background: rgba(209, 227, 211, 0.85);
+  border-radius: 30px }
+a:link {
+  color: blue }
+a:visited {
+  color: purple }
